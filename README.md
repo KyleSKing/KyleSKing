@@ -23,7 +23,7 @@
 
 ## 🧱 [ ? ] BLOCKS · 关于我
 
-<img align="right" width="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png" alt="mushroom" />
+<img align="right" width="120" src="https://raw.githubusercontent.com/KyleSKing/KyleSKing/main/assets/mario.svg" alt="mario" />
 
 ```
 🍄 昵称   : 硅仙人 (KyleSKing)
@@ -65,11 +65,13 @@
 
 ---
 
-## 🐢 贡献图 · 顶着乌龟前进
+## 🚩 COURSE CLEAR · 通关动画
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/KyleSKing/KyleSKing/output/github-contribution-grid-snake-dark.svg)
+![mario clears the level](https://raw.githubusercontent.com/KyleSKing/KyleSKing/main/assets/mario-flag.svg)
+
+`跳过水管 → 踩掉敌人 → 冲刺 → 跳上旗杆 → 旗子落地 → 进城堡`
 
 </div>
 
