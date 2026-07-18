@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![mario clears the level](https://raw.githubusercontent.com/KyleSKing/KyleSKing/main/assets/mario-flag.svg)
+![mario clears the level](https://raw.githubusercontent.com/KyleSKing/KyleSKing/main/assets/c1_e.gif)
 
 `跳过水管 → 踩掉敌人 → 冲刺 → 跳上旗杆 → 旗子落地 → 进城堡`
 
