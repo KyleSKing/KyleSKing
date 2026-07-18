@@ -1,5 +1,3 @@
-# KyleSKing
-
 <!-- 🍄 SUPER MARIO PROFILE · KyleSKing 🍄 -->
 
 <div align="center">
@@ -23,7 +21,7 @@
 
 ## 🧱 [ ? ] BLOCKS · 关于我
 
-<img align="right" width="120" src="https://raw.githubusercontent.com/KyleSKing/KyleSKing/main/assets/mario.svg" alt="mario" />
+<img align="right" width="140" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Mushroom.png" alt="mushroom" />
 
 ```
 🍄 昵称   : 硅仙人 (KyleSKing)
@@ -82,4 +80,3 @@
 `🍄 敲砖块，吃蘑菇，一路向右 → 直到旗杆顶端 🚩`
 
 </div>
-   
