@@ -65,13 +65,11 @@
 
 ---
 
-## 🚩 COURSE CLEAR · 通关动画
+## 🐢 贡献图 · 顶着乌龟前进
 
 <div align="center">
 
-![mario clears the level](https://raw.githubusercontent.com/KyleSKing/KyleSKing/main/assets/c1_e.gif)
-
-`跳过水管 → 踩掉敌人 → 冲刺 → 跳上旗杆 → 旗子落地 → 进城堡`
+![snake](https://raw.githubusercontent.com/KyleSKing/KyleSKing/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
