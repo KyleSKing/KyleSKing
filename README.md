@@ -21,7 +21,7 @@
 
 ## 🧱 [ ? ] BLOCKS · 关于我
 
-<img align="right" width="140" src="https://static.wikia.nocookie.net/dragonball/images/f/f3/Master_Roshi.jpg/revision/latest?cb=20200301003601" alt="master-roshi" />
+<img align="right" width="120" src="./assets/roshi.png" alt="master-roshi" />
 
 ```
 🍄 昵称   : 硅仙人 (KyleSKing)
