@@ -1,82 +1,89 @@
-<!-- 🍄 SUPER MARIO PROFILE · KyleSKing 🍄 -->
-
 <div align="center">
-
-<!-- ===== 天空横幅 · WORLD 1-1 ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C94FC,100:9290FF&height=200&section=header&text=%F0%9F%8D%84%20KyleSKing%20%F0%9F%8D%84&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=WORLD%201-1%20%C2%B7%20%E7%A1%85%E4%BB%99%E4%BA%BA%20PRESS%20START&descSize=20&descAlignY=60" alt="banner" />
-
-<!-- ===== 关卡状态栏 ===== -->
-```
-╔══════════════════════════════════════════════════════════╗
-║  MARIO ×03      🪙×∞        WORLD 1-1        TIME 400     ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<!-- ===== 打字机 · 招牌台词 ===== -->
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=E52521&center=true&vCenter=true&width=700&lines=It's-a+me%2C+KyleSKing!;%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8+%C2%B7+%E5%90%88%E8%A7%84+%C2%B7+%E8%87%AA%E5%8A%A8%E5%8C%96;Thank+you+Mario!+But+our+bug+is+in+another+castle..." alt="typing" />
-
-</div>
-
----
-
-## 🧱 [ ? ] BLOCKS · 关于我
-
-<img align="right" width="120" src="./assets/roshi.png" alt="master-roshi" />
 
 ```
-🍄 昵称   : 硅仙人 (KyleSKing)
-⭐ 方向   : 信息安全 / 合规 / 自动化
-🪙 座右铭 : 少写代码，多解决问题
-🚩 目标   : 拿下城堡里的那面旗
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║      _  _____    _      _    __   ___   _   _    ____  _   _        ║
+║     | |/ ____|  | |    | |  / _| / _ \ | \ | |  / ___|| \ | |       ║
+║     | | (___   _| |_  _| |_| |_ | | | ||  \| | | |  _ |  \| |       ║
+║     | |\___ \ |_   _||_   _|  _|| | | || . ` | | |_| || |\  |       ║
+║     | |____) |  | |    | | | |  | |_| || |\  |  \____||_| \_|       ║
+║     |_|_____/   |_|    |_| |_|   \___/ |_| \_|                      ║
+║                                                                      ║
+║                       硅 仙 人 · KYLE·SKING                          ║
+║                                                                      ║
+║              info-sec · compliance · automation                     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-- 🔧 正在建造：月度职位监控爬虫 & 合规评分引擎
-- 🌱 正在修炼：把每个 `[?]` 砖块敲出金币
-- 🎮 一句话：能一键通关，绝不手动刷关
+`❯ 少写代码，多解决问题。 · 拿下城堡里的那面旗。`
 
----
-
-## 🪙 COINS · 技能栏
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-5C94FC?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-E52521?style=for-the-badge&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43B047?style=for-the-badge&logo=node.js&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FBD000?style=for-the-badge&logo=git&logoColor=black)
+[<img src="https://img.shields.io/badge/Follow-@KyleSKing-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow @KyleSKing" />](https://github.com/KyleSKing)
+[<img src="https://img.shields.io/github/followers/KyleSKing?style=social" alt="GitHub followers" />](https://github.com/KyleSKing)
 
 </div>
 
 ---
 
-## 🏰 CASTLE STATS · 战绩面板
+```
+[kyle@github ~]$
+```
+
+> 🔒 **信息安全** · 📋 **合规** · 🤖 **自动化**
+
+```
+$ ls -la ~/currently
+drwxr-xr-x  monthly-job-monitor-crawler/
+drwxr-xr-x  compliance-scoring-engine/
+drwxr-xr-x  one-click-deploy-scripts/
+
+$ cat ~/motto.txt
+能一键通关，绝不手动刷关。
+```
+
+---
+
+### 🛠️ Stack
+
+```python
+>>> from kyle import skills
+>>> skills
+{
+    "python":      "scraping · automation · data",
+    "javascript":  "node · browser · scripting",
+    "infra":       "vercel · git · ci",
+}
+>>> skills.eval()  # ship it
+```
+
+---
+
+### 📌 Pinned
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KyleSKing&show_icons=true&hide_border=true&title_color=E52521&icon_color=FBD000&text_color=ffffff&bg_color=5C94FC" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KyleSKing&hide_border=true&background=5C94FC&stroke=ffffff&ring=FBD000&fire=E52521&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak" />
+<a href="https://github.com/KyleSKing/kyles-claude-skills"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KyleSKing&repo=kyles-claude-skills&title_color=39d0d8&bg_color=0d1117&text_color=c9d1d9&icon_color=39d0d8&border_color=39d0d8&show_owner=false" alt="kyles-claude-skills" /></a>
+<a href="https://github.com/KyleSKing/chirp-gzhpub"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KyleSKing&repo=chirp-gzhpub&title_color=39d0d8&bg_color=0d1117&text_color=c9d1d9&icon_color=39d0d8&border_color=39d0d8&show_owner=false" alt="chirp-gzhpub" /></a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleSKing&layout=compact&hide_border=true&title_color=E52521&text_color=ffffff&bg_color=5C94FC" alt="top-langs" />
+<a href="https://github.com/KyleSKing/github-trending-email"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KyleSKing&repo=github-trending-email&title_color=39d0d8&bg_color=0d1117&text_color=c9d1d9&icon_color=39d0d8&border_color=39d0d8&show_owner=false" alt="github-trending-email" /></a>
+<a href="https://github.com/KyleSKing/monthly-job-monitor"><img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=KyleSKing&repo=monthly-job-monitor&title_color=39d0d8&bg_color=0d1117&text_color=c9d1d9&icon_color=39d0d8&border_color=39d0d8&show_owner=false" alt="monthly-job-monitor" /></a>
 
 </div>
 
 ---
 
-## 🐢 贡献图 · 顶着乌龟前进
+### 📊 Stats
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/KyleSKing/KyleSKing/output/github-contribution-grid-snake-dark.svg)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KyleSKing&show_icons=true&hide_border=true&title_color=39d0d8&icon_color=39d0d8&text_color=c9d1d9&bg_color=0d1117&border_color=39d0d8" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KyleSKing&hide_border=true&background=0d1117&stroke=39d0d8&ring=39d0d8&fire=39d0d8&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9290FF,100:5C94FC&height=120&section=footer&text=%F0%9F%9A%A9%20YOU%20GOT%20A%20STAR!&fontSize=24&fontColor=ffffff" alt="footer" />
-
-`🍄 敲砖块，吃蘑菇，一路向右 → 直到旗杆顶端 🚩`
-
-</div>
+```
+[kyle@github ~]$ █
+```
