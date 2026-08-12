@@ -75,11 +75,11 @@
 
 <div align="center">
 
-<a href="https://github.com/KyleSKing/kyles-claude-skills"><img width="420" src="https://gh-readme-stats-eight.vercel.app/api/pin/?username=KyleSKing&repo=kyles-claude-skills&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="kyles-claude-skills" /></a>
-<a href="https://github.com/KyleSKing/chirp-gzhpub"><img width="420" src="https://gh-readme-stats-eight.vercel.app/api/pin/?username=KyleSKing&repo=chirp-gzhpub&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="chirp-gzhpub" /></a>
+<a href="https://github.com/KyleSKing/kyles-claude-skills"><img width="420" src="https://github-readme-stats-rho.vercel.app/api/pin/?username=KyleSKing&repo=kyles-claude-skills&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="kyles-claude-skills" /></a>
+<a href="https://github.com/KyleSKing/chirp-gzhpub"><img width="420" src="https://github-readme-stats-rho.vercel.app/api/pin/?username=KyleSKing&repo=chirp-gzhpub&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="chirp-gzhpub" /></a>
 
-<a href="https://github.com/KyleSKing/github-trending-email"><img width="420" src="https://gh-readme-stats-eight.vercel.app/api/pin/?username=KyleSKing&repo=github-trending-email&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="github-trending-email" /></a>
-<a href="https://github.com/KyleSKing/monthly-job-monitor"><img width="420" src="https://gh-readme-stats-eight.vercel.app/api/pin/?username=KyleSKing&repo=monthly-job-monitor&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="monthly-job-monitor" /></a>
+<a href="https://github.com/KyleSKing/github-trending-email"><img width="420" src="https://github-readme-stats-rho.vercel.app/api/pin/?username=KyleSKing&repo=github-trending-email&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="github-trending-email" /></a>
+<a href="https://github.com/KyleSKing/monthly-job-monitor"><img width="420" src="https://github-readme-stats-rho.vercel.app/api/pin/?username=KyleSKing&repo=monthly-job-monitor&title_color=E52521&bg_color=5C94FC&text_color=ffffff&icon_color=FBD000&border_color=FBD000&show_owner=false" alt="monthly-job-monitor" /></a>
 
 </div>
 
@@ -89,10 +89,10 @@
 
 <div align="center">
 
-<img height="165" src="https://gh-readme-stats-eight.vercel.app/api?username=KyleSKing&show_icons=true&hide_border=true&title_color=E52521&icon_color=FBD000&text_color=ffffff&bg_color=5C94FC" alt="stats" />
+<img height="165" src="https://github-readme-stats-rho.vercel.app/api?username=KyleSKing&show_icons=true&hide_border=true&title_color=E52521&icon_color=FBD000&text_color=ffffff&bg_color=5C94FC" alt="stats" />
 <img height="165" src="https://streak-stats.demolab.com/?user=KyleSKing&hide_border=true&background=5C94FC&stroke=ffffff&ring=FBD000&fire=E52521&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak" />
 
-<img height="165" src="https://gh-readme-stats-eight.vercel.app/api/top-langs/?username=KyleSKing&layout=compact&hide_border=true&title_color=E52521&text_color=ffffff&bg_color=5C94FC" alt="top-langs" />
+<img height="165" src="https://github-readme-stats-rho.vercel.app/api/top-langs/?username=KyleSKing&layout=compact&hide_border=true&title_color=E52521&text_color=ffffff&bg_color=5C94FC" alt="top-langs" />
 
 </div>
 
